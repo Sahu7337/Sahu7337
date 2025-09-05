@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sahu7337
 - 👀 I’m interested in ... C++
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Java, and Data Structures in C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ... He/Him
