@@ -1,6 +1,5 @@
-Hello!!
-I'm Asish.
+Asish Ranjan
 
-A C++ Dev.
+"Restriction is power. Every constraint is a creative decision."
 
-Targeting job as a Game Director.
+C++ developer. Game director in the making. I build things that are meant to be experienced more than once.
