@@ -6,11 +6,13 @@ C++ developer. Game director in the making. I build things that are meant to be 
 
 **What I Do**
 I write systems in C++ and stories in prose. I make games, films, and apps — sometimes all three overlap. The through-line is intentionality: I don't build things that exist only to exist.
+
 My long-term goal is game directing. I'm working toward it through every project I take on — learning the craft of storytelling, systems design, and the art of restriction.
 
 **Projects**
 _Twisted Games_
 Browser-based survival horror game — React, TypeScript, Vite. Built screenplay-first for a hackathon, because the story always comes before the system.
+
 _Sentinel SOS_
 Android emergency alert app — Kotlin, accelerometer-based harassment detection, GPS + SMS. Built with zero prior Android experience. Shipped anyway.
 
