@@ -1,34 +1,127 @@
-Asish Ranjan
+# Asish Ranjan
 
-> "Restriction is power. Every constraint is a creative decision."
+**C++ developer · game director in the making**
 
-C++ developer. Game director in the making. I build things that are meant to be experienced more than once.
+> restriction is power. every constraint is a creative decision.
 
-**What I Do**
+i build things meant to be **experienced more than once**.
 
-I write systems in C++ and stories in prose. I make games, films, and apps — sometimes all three overlap. The through-line is intentionality: I don't build things that exist only to exist.
+games, systems, stories, and interfaces — usually with one question in mind:
 
-My long-term goal is game directing. I'm working toward it through every project I take on — learning the craft of storytelling, systems design, and the art of restriction.
+**does this need to exist?**
 
-**Projects**:
+---
 
-_Twisted Games_
-Browser-based survival horror game — React, TypeScript, Vite. Built screenplay-first for a hackathon, because the story always comes before the system.
+## about
 
-_Sentinel SOS_
-Android emergency alert app — Kotlin, accelerometer-based harassment detection, GPS + SMS. Built with zero prior Android experience. Shipped anyway.
+i'm interested in the space where **technology meets storytelling**.
 
-**Currently**:
+i write systems in **c++** and stories in prose.
+i build games, applications, and experiments.
+i design interfaces around clarity rather than decoration.
 
-Deepening C++ knowledge through Crafting Interpreters and learnopengl.com.
-Studying the gap between the games I love and the games I want to make.
+my long-term goal is **game direction** — developing the ability to bring together:
 
-**Stack**:
+`storytelling` · `systems design` · `visual language` · `sound` · `player experience`
 
-**Languages**    C++  ·  Kotlin  ·  TypeScript  ·  JavaScript  ·  Python
+i prefer building fewer things with more intention.
 
-**Frameworks**    React  ·  Jetpack Compose  ·  Vite
+---
 
-**Tools**         DaVinci Resolve  ·  Figma  ·  Git
+## projects
 
-**Domains**       Game Dev  ·  Android  ·  Systems Programming  ·  UI/UX
+### twisted games
+
+**survival horror · browser · game**
+
+`react` `typescript` `vite`
+
+a browser-based survival horror game.
+
+built **screenplay-first** for a hackathon because the story came before the system.
+
+---
+
+### sentinel sos
+
+**android · emergency alert system**
+
+`kotlin` `gps` `sms` `accelerometer`
+
+an emergency alert application with accelerometer-based detection, gps, and sms.
+
+built with **zero prior android experience. shipped anyway.**
+
+---
+
+### syncpad
+
+**local network · text synchronization**
+
+`javascript` `networking` `full-stack`
+
+a simple tool for synchronizing text between devices on the same network.
+
+no cloud required.
+
+---
+
+### greencity sentinel
+
+**environmental monitoring · ai · satellite imagery**
+
+`google earth engine` `gemini` `google maps` `firebase`
+
+an environmental monitoring concept using satellite imagery and ai to identify changes in the world around us.
+
+---
+
+## currently
+
+```text
+c++              → crafting interpreters
+graphics         → learnopengl
+game development → systems + storytelling
+cybersecurity    → networking + systems
+writing          → long-form science fiction
+design           → minimal interfaces
+```
+
+---
+
+## stack
+
+**languages**
+
+`c++` `c` `kotlin` `typescript` `javascript` `python`
+
+**frameworks**
+
+`react` `jetpack compose` `vite`
+
+**tools**
+
+`git` `figma` `davinci resolve` `linux`
+
+**domains**
+
+`game dev` · `systems` · `cybersecurity` · `android` · `ui/ux`
+
+---
+
+## philosophy
+
+> build deliberately.
+
+i don't want to build everything.
+
+i want to build things that are **worth building**.
+
+less noise.
+fewer dependencies.
+fewer unnecessary features.
+more intention.
+
+**restriction isn't a limitation.**
+
+**it's a design decision.**
