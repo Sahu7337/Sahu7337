@@ -1,12 +1,12 @@
 # Asish Ranjan
 
-**C++ developer · game director in the making**
+**product designer · creative technologist · game director in the making**
 
 > restriction is power. every constraint is a creative decision.
 
 i build things meant to be **experienced more than once**.
 
-games, systems, stories, and interfaces — usually with one question in mind:
+products, interfaces, games, systems, and stories — usually with one question in mind:
 
 **does this need to exist?**
 
@@ -14,21 +14,83 @@ games, systems, stories, and interfaces — usually with one question in mind:
 
 ## about
 
-i'm interested in the space where **technology meets storytelling**.
+i'm interested in the space where **technology meets experience**.
 
-i write systems in **c++** and stories in prose.
-i build games, applications, and experiments.
 i design interfaces around clarity rather than decoration.
+i build products to understand how they work, not just how they look.
+i make games where systems, story, sound, and visual language work together.
 
-my long-term goal is **game direction** — developing the ability to bring together:
+my long-term goal is **game direction** — bringing together:
 
-`storytelling` · `systems design` · `visual language` · `sound` · `player experience`
+`storytelling` · `systems design` · `visual language` · `sound` · `interaction`
+
+i'm currently developing toward **product design**, with a particular interest in hardware, software, and the space between them.
 
 i prefer building fewer things with more intention.
 
 ---
 
-## projects
+## selected work
+
+### honey box
+
+**android · privacy · application sandbox**
+
+`android` `ui/ux` `product design`
+
+a concept for isolating Android applications inside a controlled environment.
+
+designed around **privacy, permissions, trust, and user control**.
+
+---
+
+### compact
+
+**hardware · mobile · industrial design**
+
+`figma` `product design` `interaction design`
+
+a speculative compact smartphone exploring the relationship between **hardware ergonomics and software experience**.
+
+currently designing the device and its interface in Figma.
+
+---
+
+### pomodoro
+
+**productivity · web · interaction design**
+
+`html` `css` `javascript` `ui/ux`
+
+a minimalist pomodoro timer designed around reducing visual noise.
+
+the favicon becomes a **tiny clock**, allowing the timer to remain visible even when the application is kept in a background or pinned browser tab.
+
+---
+
+### sentinel sos
+
+**android · emergency interaction**
+
+`kotlin` `gps` `sms` `accelerometer`
+
+an emergency alert application with accelerometer-based detection, GPS, and SMS.
+
+built with **zero prior Android experience. shipped anyway.**
+
+---
+
+### syncpad
+
+**local network · text synchronization**
+
+`javascript` `full-stack` `networking`
+
+a simple tool for synchronizing text between devices on the same network.
+
+**no cloud required.**
+
+---
 
 ### twisted games
 
@@ -42,70 +104,51 @@ built **screenplay-first** for a hackathon because the story came before the sys
 
 ---
 
-### sentinel sos
-
-**android · emergency alert system**
-
-`kotlin` `gps` `sms` `accelerometer`
-
-an emergency alert application with accelerometer-based detection, gps, and sms.
-
-built with **zero prior android experience. shipped anyway.**
-
----
-
-### syncpad
-
-**local network · text synchronization**
-
-`javascript` `networking` `full-stack`
-
-a simple tool for synchronizing text between devices on the same network.
-
-no cloud required.
-
----
-
 ### greencity sentinel
 
 **environmental monitoring · ai · satellite imagery**
 
 `google earth engine` `gemini` `google maps` `firebase`
 
-an environmental monitoring concept using satellite imagery and ai to identify changes in the world around us.
+an environmental monitoring concept using satellite imagery and AI to identify changes in the world around us.
 
 ---
 
 ## currently
 
 ```text
-c++              → crafting interpreters
-graphics         → learnopengl
-game development → systems + storytelling
-cybersecurity    → networking + systems
-writing          → long-form science fiction
-design           → minimal interfaces
+product design     → interfaces + hardware
+figma              → interaction + design systems
+frontend           → html + css + javascript
+react              → building functional prototypes
+game development   → systems + storytelling
+writing            → long-form science fiction
+design             → minimal interfaces
 ```
 
 ---
 
 ## stack
 
+**design**
+
+`figma` `figjam` `design systems` `prototyping`
+
 **languages**
 
-`c++` `c` `kotlin` `typescript` `javascript` `python`
+`c++` `c` `typescript` `javascript` `kotlin` `python`
 
-**frameworks**
+**web**
 
-`react` `jetpack compose` `vite`
+`react` `vite` `html` `css`
 
 **tools**
 
-`git` `figma` `davinci resolve` `linux`
+`git` `github` `linux` `davinci resolve`
 
 **domains**
 
-`game dev` · `systems` · `cybersecurity` · `android` · `ui/ux`
+`product design` · `game dev` · `systems` · `android` · `ui/ux`
 
 ---
 
