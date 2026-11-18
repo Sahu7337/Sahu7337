@@ -1,170 +1,156 @@
-# Asish Ranjan
+ # Asish Ranjan
 
-**product designer · creative technologist · game director in the making**
+    **Design Engineer · Systems Craftsman · Worldbuilder**
 
-> restriction is power. every constraint is a creative decision.
+    > *Restriction is power. Every constraint is an architectural
+    decision.*
 
-i build things meant to be **experienced more than once**.
+    I engineer instruments, systems, and stories meant to be
+    **experienced more than once**—bridging physical tactile mechanics
+    with digital software.
 
-products, interfaces, games, systems, and stories — usually with one question in mind:
+    Often asking one singular question: **Does this need to exist?**
 
-**does this need to exist?**
+    ---
 
----
+    ## Architecture & Vision
 
-## about
+    I operate in the space where **software engineering meets physical
+    ergonomics and narrative weight**.
 
-i'm interested in the space where **technology meets experience**.
+    - **Interfaces as Instruments:** I build interfaces around physical
+    kinematics, tactile acoustics, and typographic restraint—rejecting
+    sterile templates in favor of direct spatial manipulation.
+    - **Systems over Illusions:** I write software to understand its deep
+    mechanics, not just to paint its surface.
+    - **Narrative as Architecture:** Whether writing a 30-chapter hard
+    sci-fi epic, directing on a DaVinci Resolve timeline, or composing
+    audio leitmotifs, systems and story share the exact same grammar.
 
-i design interfaces around clarity rather than decoration.
-i build products to understand how they work, not just how they look.
-i make games where systems, story, sound, and visual language work together.
+    Fewer things. Built with relentless intention.
 
-my long-term goal is **game direction** — bringing together:
+    ---
 
-`storytelling` · `systems design` · `visual language` · `sound` · `interaction`
+    ## Selected Work
 
-i'm currently developing toward **product design**, with a particular interest in hardware, software, and the space between them.
+    ### 01. Instruments & Spatial Software
 
-i prefer building fewer things with more intention.
+    #### [Paper](https://github.com/asishranjan/paper)
+    **Tactile Writing Instrument · Spatial Kinematics · Web Audio
+    Synthesis**
+    `javascript` `web-audio-api` `spatial-ui` `interaction-design`
 
----
+    An offline, distraction-free writing environment engineered with
+    custom mechanical keyboard acoustic synthesis, paper grain depth, and
+    a **radial Japanese folding fan (*Sensu*) card-deck navigation**
+    mapped directly to trackpad gestures and rotary mouse inputs.
 
-## selected work
+    #### [Screened](https://github.com/asishranjan/screened)
+    **Screenplay Engine · Ergonomics · Frictionless Text**
+    `javascript` `typography` `minimalism`
 
-### honey box
+    A distraction-free screenwriting tool built specifically around the
+    rhythmic typing cadence of screenwriters, standard industry
+    pagination rules, and zero visual clutter.
 
-**android · privacy · application sandbox**
+    #### [Joi](https://github.com/asishranjan/joi)
+    **Holographic AI Companion · Local Inference · Voice-First
+    Architecture**
+    `fastapi` `python` `ollama` `sqlite` `real-time-audio`
 
-`android` `ui/ux` `product design`
+    An intimate, voice-first companion inspired by *Blade Runner 2049*.
+    Replaces sterile chat bubbles with an obsidian void anchored by a 60
+    FPS breathing audio-reactive core. Powered by local LLMs via Ollama
+    and sentence-level Server-Sent Events—100% private and sovereign.
 
-a concept for isolating Android applications inside a controlled environment.
+    ---
 
-designed around **privacy, permissions, trust, and user control**.
+    ### 02. Systems & Hardware
 
----
+    #### [DEQUEUED](https://github.com/asishranjan/dequeued)
+    **Autonomous Retail Cart · Anti-Shrinkage IoT System**
+    `iot` `embedded` `systems` `load-cells` `hardware-software`
 
-### compact
+    An IoT-enabled smart retail checkout system featuring dual-layer
+    physical verification: instantaneous barcode reconciliation paired
+    with a suspended false-bottom load-cell weight delta to eradicate
+    retail shrinkage without friction.
 
-**hardware · mobile · industrial design**
+    #### [ENCLAVE](https://github.com/asishranjan/enclave)
+    **Android Security Sandbox · Privacy Architecture**
+    `kotlin` `android` `security` `sandboxing`
 
-`figma` `product design` `interaction design`
+    A privacy-first isolated runtime environment for Android
+    applications. Designed around strict application isolation, granular
+    permission enforcement, and local user sovereignty.
 
-a speculative compact smartphone exploring the relationship between **hardware ergonomics and software experience**.
+    #### [Sentinel SOS](https://github.com/asishranjan/sentinel-sos)
+    **Emergency Interaction System**
+    `kotlin` `android` `hardware-sensors` `gps` `sms`
 
-currently designing the device and its interface in Figma.
+    A zero-latency emergency alert application featuring
+    accelerometer-based impact detection, GPS coordinate dispatch, and
+    automated SMS failovers.
 
----
+    ---
 
-### pomodoro
+    ### 03. Cinema & Literature
 
-**productivity · web · interaction design**
-
-`html` `css` `javascript` `ui/ux`
-
-a minimalist pomodoro timer designed around reducing visual noise.
-
-the favicon becomes a **tiny clock**, allowing the timer to remain visible even when the application is kept in a background or pinned browser tab.
-
----
-
-### sentinel sos
-
-**android · emergency interaction**
-
-`kotlin` `gps` `sms` `accelerometer`
-
-an emergency alert application with accelerometer-based detection, GPS, and SMS.
-
-built with **zero prior Android experience. shipped anyway.**
-
----
-
-### syncpad
-
-**local network · text synchronization**
-
-`javascript` `full-stack` `networking`
-
-a simple tool for synchronizing text between devices on the same network.
-
-**no cloud required.**
-
----
-
-### twisted games
-
-**survival horror · browser · game**
-
-`react` `typescript` `vite`
-
-a browser-based survival horror game.
-
-built **screenplay-first** for a hackathon because the story came before the system.
-
----
-
-### greencity sentinel
-
-**environmental monitoring · ai · satellite imagery**
-
-`google earth engine` `gemini` `google maps` `firebase`
-
-an environmental monitoring concept using satellite imagery and AI to identify changes in the world around us.
-
----
-
-## currently
-
-```text
-product design     → interfaces + hardware
-figma              → interaction + design systems
-frontend           → html + css + javascript
-react              → building functional prototypes
-game development   → systems + storytelling
-writing            → long-form science fiction
-design             → minimal interfaces
-```
-
----
-
-## stack
-
-**design**
-
-`figma` `figjam` `design systems` `prototyping`
-
-**languages**
-
-`c++` `c` `typescript` `javascript` `kotlin` `python`
-
-**web**
-
-`react` `vite` `html` `css`
-
-**tools**
-
-`git` `github` `linux` `davinci resolve`
-
-**domains**
-
-`product design` · `game dev` · `systems` · `android` · `ui/ux`
-
----
-
-## philosophy
-
-> build deliberately.
-
-i don't want to build everything.
-
-i want to build things that are **worth building**.
-
-less noise.
-fewer dependencies.
-fewer unnecessary features.
-more intention.
-
-**restriction isn't a limitation.**
-
-**it's a design decision.**
+    #### [All Ends Die: Part
+    One](https://www.youtube.com/watch?v=rcujnCw4EY8)
+    **Independent Sci-Fi Short Film**
+    `direction` `screenplay` `cinematography` `davinci-resolve`
+
+    Written, directed, shot, and edited independently. A quiet,
+    atmospheric meditation on endings, filmed against brooding twilight
+    horizons and tangled tree silhouettes with patient compositions,
+    natural room tone, and node-based color grading.
+
+    #### The Exodus Project (4657 AD)
+    **Hard Sci-Fi Epic Novel · Deep-Time Linguistics**
+    `literature` `worldbuilding` `conlang` `astrophysics`
+
+    A 30-chapter hard science-fiction novel chronicling humanity's
+    generational migration across seven distinct planetary ecosystems
+    following the expansion of the sun. Explores empirical science vs.
+    synthetic religion, complete with an original constructed language
+    (ConLang) and deep-time civilizational lore.
+
+    ---
+
+    ## Core Philosophy
+
+    > *Build deliberately. Reject the noise.*
+
+    - **High Signal, Low Noise:** Rejection of corporate bloatware,
+    performative social feeds, and superficial metrics.
+    - **Physicality in Code:** Bringing mass, inertia, acoustic
+    resonance, and spatial anchors back into digital interfaces.
+    - **Digital Minimalism:** Local-first, privacy-respecting,
+    terminal-native tools that respect user attention and machine
+    resources.
+    - **Craftsmanship over Speed:** Good things take deep incubation.
+    Masterpieces are built block by block in silence.
+
+    ---
+
+    ## Technical Stack
+
+    | Domain | Tools & Technologies |
+    | :--- | :--- |
+    | **Design Engineering** | Spatial UI, Material Motion Curves,
+    Ergonomics, Typography, Design Systems |
+    | **Languages** | C++, Kotlin, TypeScript, JavaScript, Python, C |
+    | **Frontend & Web** | HTML5 / Semantic Web, Modern CSS / Layout
+    Kinematics, Web Audio API, React, Vite |
+    | **Systems & Backend** | FastAPI, Linux, Git / GitHub, SQLite,
+    Docker, Local LLM Inference (Ollama) |
+    | **Creative Suite** | DaVinci Resolve (Editing & Node Color
+    Grading), Neovim (`nvim`), Markdown / Obsidian |
+
+    ---
+
+    <p align="center">
+      <sub>Engineered with intention · Terminal-first · Solitary
+      focus</sub>
+    </p>
